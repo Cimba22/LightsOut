@@ -12,6 +12,8 @@ public class LightsOut {
 
     private final boolean[][] grid;
 
+
+
     public void addObserver(LightsOutObserver observer) {
         observers.add(observer);
     }
