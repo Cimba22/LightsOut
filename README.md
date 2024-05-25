@@ -19,7 +19,7 @@ The Lights Out game consists of a grid of lights, with each light having two sta
 
 ## How to start?
 
-1. Clone project using git panel or console. If you nor familiar with gir, you can simply download ZIP-archive.
+1. Clone project using git panel or console. If you nor familiar with git, you can simply download ZIP-archive.
 ```git
 git clone https://github.com/Cimba22/LightsOut.git
 ```
